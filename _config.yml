@@ -1,1 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+minima:
+    social links:
+        github: https://github.com/atravitz
+        linkedin: https://www.linkedin.com/in/alyssa-travitz-1494957a/
