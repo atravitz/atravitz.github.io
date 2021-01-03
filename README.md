@@ -1,1 +1,0 @@
-run `bundle exec jekyll serve` to make a local build.

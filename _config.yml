@@ -2,9 +2,10 @@ theme: minima
 title: Alyssa Travitz
 github_username: atravitz
 email: "alyssatravitz@gmail.com"
+linkedin_username: alyssa-travitz-1494957a
 
 minima:
-    # github_username: https://github.com/atravitz
+
     # linkedin_username: https://www.linkedin.com/in/alyssa-travitz-1494957a/
 
     # author: Alyssa Travitz
