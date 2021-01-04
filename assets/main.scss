@@ -3,5 +3,36 @@
 ---
 
 @import "minima";
-.footer-col {
+.site-title{
+    font-size: 32px;
 }
+
+.footer-wrapper {
+    display: flex;
+    flex: 1 1;
+    justify-content: space-around;
+}
+
+.email-section {
+    display: flex;
+    flex: 1 1;
+    align-items: center;
+}
+
+.social-section {
+    display: flex;
+    flex: 1 1;
+    justify-content: flex-end;
+
+    div {
+        margin-left: 30px;
+    }
+}
+
+.svg-icon {
+    width: 60px;
+    height: 60px;
+    padding-right: 0;
+    fill: #1756a9;
+}
+a {color: #1756a9}
